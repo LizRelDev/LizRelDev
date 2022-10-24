@@ -60,10 +60,10 @@ if __name__ == '__main__':
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fantasy1575&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=fantasy1575&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 [![Falih' Activity Graph](https://activity-graph.herokuapp.com/graph?username=fantasy1575&custom_title=LizRelDev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
