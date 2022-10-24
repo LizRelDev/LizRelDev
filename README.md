@@ -54,6 +54,7 @@ if __name__ == '__main__':
   <a href="https://github.com/fantasy1575">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fantasy1575&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy1575&theme=gruvbox&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantasy1575&layout=compact&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
