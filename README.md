@@ -4,7 +4,7 @@
 
 Hello There! I'm Fantasy, a student currently living in Jepara, Indonesia.
 
-Am just GitHub user that curently learning about Android Development.
+Im just a GitHub user that curently learning about Android Development.
 
 <br>
 
