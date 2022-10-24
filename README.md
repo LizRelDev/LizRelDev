@@ -17,7 +17,7 @@ Am just GitHub user that curently learning about Android Development.
 </p>
 
 ```python
-class LizRelDev():
+class fantasy's():
     
   def __init__(self):
     self.name = "Fantasy Renald Zhafar";
