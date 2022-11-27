@@ -23,7 +23,7 @@ class fantasy's():
     self.name = "Fantasy Renald Zhafar";
     self.username = "LizRelDev";
     self.location = "Central Java, Indonesia";
-    self.twitter = "@fantasy1575";
+    self.twitter = "@LizRelDev";
     self.telegram = "@LizRelDev";
   
   def __str__(self):
