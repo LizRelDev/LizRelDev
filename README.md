@@ -46,6 +46,10 @@ if __name__ == '__main__':
 
 
 <h3 align=" left">Now Playing (spotify):</h3>
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j25awaczl8oe6axaahevigpi4&redirect=true)
 
 
