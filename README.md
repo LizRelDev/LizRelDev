@@ -33,7 +33,7 @@ if __name__ == '__main__':
     me = LizRelDev()
 ```
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=d17f1b&bar_color_cover=false)
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
 
 
 <!--
