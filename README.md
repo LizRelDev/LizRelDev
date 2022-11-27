@@ -6,7 +6,7 @@ Hello There! I'm Fantasy, a student currently living in Jepara, Indonesia.
 
 Im just a GitHub user that curently learning about Android Development.
 
-<br>
+
 
 
 
@@ -44,14 +44,17 @@ if __name__ == '__main__':
 ```
 
 
+# Now Playing (Spotify)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=j25awaczl8oe6axaahevigpi4&redirect=true)
 
 
 
+# Support Me
+
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/LizRelDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LizRelDev" /></a><a href="https://ko-fi.com/LizRelDev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LizRelDev" /></a></p><br><br>
-
-
+<p><a href="https://www.buymeacoffee.com/LizRelDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LizRelDev" /></a>
+<a href="https://ko-fi.com/LizRelDev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LizRelDev" /></a></p><br><br>
 
 
 
