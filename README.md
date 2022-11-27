@@ -22,9 +22,8 @@ class fantasy's():
   def __init__(self):
     self.name = "Fantasy Renald Zhafar";
     self.username = "LizRelDev";
-    self.location = "Central Java, Indonesia";
-    self.twitter = "@LizRelDev";
-    self.telegram = "@LizRelDev";
+    self.location = "Central Java";
+    self.region = "Indonesia";
   
   def __str__(self):
     return self.name
