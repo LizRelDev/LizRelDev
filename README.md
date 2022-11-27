@@ -33,11 +33,7 @@ if __name__ == '__main__':
     me = LizRelDev()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/j25awaczl8oe6axaahevigpi4">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
 
 
 <!--
