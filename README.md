@@ -52,18 +52,18 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="https://github.com/fantasy1575">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fantasy1575&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fantasy1575&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/LizRelDev">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LizRelDev&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LizRelDev&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fantasy1575&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ## Activity Contribution
-![](https://activity-graph.herokuapp.com/graph?username=fantasy1575&custom_title=LizRelDev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![](https://activity-graph.herokuapp.com/graph?username=LizRelDev&custom_title=LizRelDev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
