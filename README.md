@@ -33,16 +33,12 @@ if __name__ == '__main__':
     me = LizRelDev()
 ```
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
 
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/j25awaczl8oe6axaahevigpi4">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=j25awaczl8oe6axaahevigpi4&cover_image=false&theme=default&show_offline=false&background_color=3b1b00&bar_color=c77100)](https://github.com/kittinan/spotify-github-profile)
+
+
+
 
 ## Statistics
 
