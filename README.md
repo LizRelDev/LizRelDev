@@ -7,13 +7,6 @@ Hello There! I'm Fantasy, a student currently living in Jepara, Indonesia.
 Im just a GitHub user that curently learning about Android Development.
 
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LizRelDev)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
 ![GitHub metrics](https://metrics.lecoq.io/LizRelDev)  
 
 
@@ -65,20 +58,20 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://github.com/LizRelDev">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LizRelDev&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LizRelDev&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LizRelDev&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LizRelDev&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <br>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### Activity Contribution
-![](https://activity-graph.herokuapp.com/graph?username=LizRelDev&custom_title=LizRelDev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![](https://activity-graph.herokuapp.com/graph?username=LizRelDev&custom_title=LizRelDev's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
