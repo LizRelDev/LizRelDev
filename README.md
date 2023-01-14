@@ -5,7 +5,7 @@
 Hello There! I'm Fantasy, a student currently living in Jepara, Indonesia.
 
 Im just a GitHub user that curently learning about Android Development.
-
+users who can just copy someone else's code and paste it into my fork repository... Sed
 
 ![GitHub metrics](https://metrics.lecoq.io/LizRelDev)  
 
