@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 
 
-### GitJub All Statistics
+## 📌GitHub All Statistics
 
 <br/>
 <p align="left">
