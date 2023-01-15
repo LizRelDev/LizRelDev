@@ -64,11 +64,14 @@ if __name__ == '__main__':
 </p>
 <br>
 
+![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=true)
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 📊 Activity Contribution
-![](https://activity-graph.herokuapp.com/graph?username=LizRelDev&custom_title=LizRelDev's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=false&line=d1a01f&point=c58545)
+
+[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=LizRelDevl&theme=tokyonight&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
