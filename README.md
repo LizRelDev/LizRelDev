@@ -67,16 +67,8 @@ if __name__ == '__main__':
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### Activity Contribution
+### 📊 Activity Contribution
 ![](https://activity-graph.herokuapp.com/graph?username=LizRelDev&custom_title=LizRelDev's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=false&line=d1a01f&point=c58545)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-
-<h3 align="left">Support:</h3>
-
-<a href="https://www.buymeacoffee.com/LizRelDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="LizRelDev" />
-<p><a href="https://ko-fi.com/LizRelDev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="LizRelDev" /></a></p><br><br>
