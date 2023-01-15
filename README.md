@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 
 
-### Statistics
+### GitJub All Statistics
 
 <br/>
 <p align="left">
@@ -64,14 +64,11 @@ if __name__ == '__main__':
 </p>
 <br>
 
-![Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=true)
 
-### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 📊 Activity Contribution
-
-[![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=LizRelDevl&theme=tokyonight&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=LizRelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
