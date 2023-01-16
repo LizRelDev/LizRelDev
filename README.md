@@ -64,9 +64,9 @@ if __name__ == '__main__':
 </p>
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=true)
-
 ![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=false)
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=LizRelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
