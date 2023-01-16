@@ -8,8 +8,7 @@ Im just a GitHub user that curently learning about Android Development.
 users who can just copy someone else's code and paste it into my fork repository... Sed
 
 
-[![Github Detailed Stats](https://metrics.lecoq.io/LizRelDev?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true)](https://github.com/MrKrishnaAgarwal/readme-components-github)
-
+[![](https://metrics.lecoq.io/LizRelDev?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true)
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -43,7 +42,7 @@ if __name__ == '__main__':
 
 
 
-<h3 align=" left">Now Playing (spotify):</h3>
+<h3 align=" left">Refreshing My Brain:</h3>
 
 
 
@@ -68,7 +67,7 @@ if __name__ == '__main__':
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=false)
 
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=LizRelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=LizRelDev&theme=tokyo-night)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
