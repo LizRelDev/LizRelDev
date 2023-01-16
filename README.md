@@ -54,6 +54,8 @@ if __name__ == '__main__':
 
 <h3 align="left">📌GitHub All Statistics</h3>
 
+![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 <br/>
 <p align="left">
   <a href="https://github.com/LizRelDev">
@@ -63,7 +65,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=LizRelDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LizRelDev&theme=tokyonight&hide_border=false)
 
