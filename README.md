@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 
 
-<h3 align=" left">Refreshing My Brain: Now Playing!</h3>
+<h3 align="left">Refreshing My Brain: Now Playing!</h3>
 
 
 
@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 
 
-## 📌GitHub All Statistics
+<h3 align="left">📌GitHub All Statistics</h3>
 
 <br/>
 <p align="left">
