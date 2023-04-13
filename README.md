@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hola👋 Liz is here!🔥</b>
+  <b>Hola👋 Liz is here!</b>
 </h1>
 
 Hello There! I'm Liz, a people from Jepara, Indonesia.
