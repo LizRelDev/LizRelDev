@@ -1,11 +1,13 @@
 <h1 align="center">
-  <b>Fantasy Renald Zhafar</b>
+  <b>Hola! Liz is here!🔥</b>
 </h1>
 
-Hello There! I'm Fantasy, a student currently living in Jepara, Indonesia.
+Hello There! I'm Liz, a people from Jepara, Indonesia.
 
-Im just a GitHub user that curently learning about Android Development.
-users who can just copy someone else's code and paste it into my fork repository... Sed
+Im a GitHub user that curently learning about Android Development.
+
+users who can just copy someone else's code
+and paste it into my fork repository...
 
 ---
 ```python
