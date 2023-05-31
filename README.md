@@ -11,19 +11,23 @@ and paste it into my fork repository...
 
 ---
 ```python
-class fantasy's():
+}
+  {
+   class fantasy's():
     
- def __init__(self):
-   self.name = "Fantasy Renald Zhafar";
-   self.username = "LizRelDev";
-   self.location = "Central Java";
-   self.region = "Indonesia";
+    def __init__(self):
+     self.name = "Fantasy Renald Zhafar";
+     self.username = "LizRelDev";
+     self.location = "Central Java";
+     self.region = "Indonesia";
   
- def __str__(self):
-    return self.name
+    def __str__(self):
+     return self.name
 
-if __name__ == '__main__':
-    me = LizRelDev()
+    if __name__ == '__main__':
+     me = LizRelDev()
+  {
+}
 ```
 
 ---
