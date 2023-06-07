@@ -4,7 +4,7 @@
 
 Hello There! I'm Liz, a people from Jepara, Indonesia.
 
-Im a GitHub user that curently learning about Android Development.
+Im a GitHub user that currently learning about Android Development.
 
 users who can just copy someone else's code
 and paste it into my fork repository...
