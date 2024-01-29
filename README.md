@@ -8,22 +8,18 @@ Hello There! I'm Liz, a people from Jepara, Indonesia.
 Im a GitHub user that currently learning about Android Development.
 
 ---
-```python
+```
+My Biodata
 
-class fantasy's():
-    
-   def __init__(self):
-      self.name = "Fantasy Renald Zhafar";
-      self.username = "LizRelDev";
-      self.location = "Central Java";
-      self.region = "Indonesia";
-  
-   def __str__(self):
-      return self.name
-
-if __name__ == '__main__':
-      me = LizRelDev()
-
+ 🙋Name     : Fantasy Renald Zhafar
+ 🎂Date     : 06, Novembers 2006 (16y.o)
+ 🕋Religion : Muslims
+ 🌐Country  : Central Java, Indonesia🇮🇩
+ 🏆Hobby    : -Reading
+                -Listening old japanese music vibes
+                -Learning a new thing that interesting me
+ 🍜Favorites: Martabak Telor, Roti Bakar, Mie Ayam
+ 💪Ambition : "I want to be a successful person who can make my parents happy"
 ```
 ---
 
