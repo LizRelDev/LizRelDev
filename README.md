@@ -16,8 +16,8 @@ My Biodata
  🕋Religion : Muslims
  🌐Country  : Central Java, Indonesia🇮🇩
  🏆Hobby    : -Reading
-                -Listening old japanese music vibes
-                -Learning a new thing that interesting me
+              -Listening old japanese music vibes
+              -Learning a new thing that interesting me
  🍜Favorites: Martabak Telor, Roti Bakar, Mie Ayam
  💪Ambition : "I want to be a successful person who can make my parents happy"
 ```
