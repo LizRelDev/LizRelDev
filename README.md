@@ -23,7 +23,7 @@ My Biodata
 ```
 ---
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=7aff73&bar_color_cover=false)
+![](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=j25awaczl8oe6axaahevigpi4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 ![](https://spotify-recently-played-readme.vercel.app/api?user=j25awaczl8oe6axaahevigpi4)
 
